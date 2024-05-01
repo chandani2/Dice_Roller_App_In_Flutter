@@ -27,6 +27,8 @@ class GradientContainer extends StatelessWidget {
   }
 }
 
+
+//THis is commented code
 //   @override
 //   Widget build(context) {
 //     return Container(
